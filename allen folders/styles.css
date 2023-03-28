@@ -50,6 +50,12 @@ color: aliceblue;
 
 
 }
+a{
+    color: aliceblue;
+    text-decoration: none;
+    
+   
+}
 .wrappers{
 margin-top:px;
 background-image: url();
