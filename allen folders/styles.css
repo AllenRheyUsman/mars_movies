@@ -1,3 +1,11 @@
+#head1.scrolled
+{
+    background-color: black;
+    border-bottom: 2px solid rgb(21, 21, 21);
+    transition: .5s;
+   
+    
+}
 .wrappers:hover .video-clip{
     opacity: 1;
     z-index: -1;
