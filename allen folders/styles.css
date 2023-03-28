@@ -60,7 +60,7 @@ color: aliceblue;
 .mara{
 opacity: 0;
 position: absolute;
-transition: opacity 1s ease-in-out;
+/* transition: opacity 1s ease-in-out; */
 top: 200px;
 float: left;
 
